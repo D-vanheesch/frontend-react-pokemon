@@ -1,0 +1,41 @@
+* {
+    padding: 0;
+    margin: 0;
+}
+
+.pokemonCards {
+    color: black;
+    font-size: 15px;
+    background-color: hsl(5, 76%, 47%);
+    height: 300px;
+    width:190px;
+    margin: 10px;
+    border-radius: 20px;
+    line-height: 1.5rem;
+}
+
+.pokemonCards img {
+    width: 100px;
+    height: 100px;
+}
+
+.pokemonCards h4 {
+    font-weight: 500;
+    font-size: 20px;
+    display: compact;
+    margin-inline-start: 0;
+    margin-inline-end: 0;
+}
+
+.pokemonCards h5 {
+    font-weight: 500;
+    list-style: none;
+    font-size: 20px;
+    display: compact;
+    margin-inline-start: 0;
+    margin-inline-end: 0;
+}
+.abilities-h5 {
+    text-decoration: underline;
+}
+
